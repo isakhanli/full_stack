@@ -1,1 +1,1 @@
-# full_stack
+# Web application with spring boot/react
